@@ -19,7 +19,7 @@ materia, turno, ciclo_escolar
 
 5 En tu archivo index.js, crea una instancia de alumno. Una vez creada la instancia llena las propiedades nombre, edad, sexo, matricula, turno y ciclo_escolar. Una vez lleno las propiedades, manda llamar el método saludar
 
-6 Al igual que el paso 5, esta vez crea una instancia de la clase profesor. De igual forma llena las propiedades nomnre, edad, sexo, materia, turno, ciclo_escolar
+6 Al igual que el paso 5, esta vez crea una instancia de la clase profesor. De igual forma llena las propiedades nombre, edad, sexo, materia, turno, ciclo_escolar. Igual, manda llamar al método saludar
 
 *** Genial, ya aprendiste a dominar POO 
 
